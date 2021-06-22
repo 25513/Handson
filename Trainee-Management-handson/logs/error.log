@@ -1,0 +1,16 @@
+22:57:07.502 [main] ERROR o.example.TraineeManager1Application - Error in Null Value
+22:57:07.503 [main] WARN  o.example.TraineeManager1Application - This is Warning Message
+22:31:14.526 [main] INFO  o.example.TraineeManager1Application - Starting TraineeManager1Application using Java 15.0.2 on LAPTOP-0PSM2EJP with PID 16072 (C:\Users\nikit\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\TRAINEE-MANAGER1\target\classes started by nikit in C:\Users\nikit\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\TRAINEE-MANAGER1)
+22:31:14.529 [main] INFO  o.example.TraineeManager1Application - No active profile set, falling back to default profiles: default
+22:31:17.479 [main] INFO  o.example.TraineeManager1Application - Started TraineeManager1Application in 3.299 seconds (JVM running for 3.815)
+22:31:17.482 [main] INFO  o.example.TraineeManager1Application - Server is running on Port: 8080 
+22:31:17.482 [main] ERROR o.example.TraineeManager1Application - Error in Null Value
+22:31:17.482 [main] WARN  o.example.TraineeManager1Application - This is Warning Message
+22:31:17.484 [main] INFO  o.example.TraineeManager1Application - Choose option for Trainee:
+22:31:17.485 [main] INFO  o.example.TraineeManager1Application - 
+1. Register 
+2. remove 
+3. Find by name 
+4. Find by cohort code
+5.Print All
+6.Exit

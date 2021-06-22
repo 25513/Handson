@@ -1,0 +1,22 @@
+22:57:03.120 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+22:57:03.207 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 72 ms. Found 1 JPA repository interfaces.
+22:57:04.819 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+22:57:04.961 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+22:57:05.278 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+22:57:05.530 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+22:57:06.617 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+22:57:06.637 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+22:31:14.526 [main] INFO  o.example.TraineeManager1Application - Starting TraineeManager1Application using Java 15.0.2 on LAPTOP-0PSM2EJP with PID 16072 (C:\Users\nikit\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\TRAINEE-MANAGER1\target\classes started by nikit in C:\Users\nikit\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\TRAINEE-MANAGER1)
+22:31:14.529 [main] INFO  o.example.TraineeManager1Application - No active profile set, falling back to default profiles: default
+22:31:17.479 [main] INFO  o.example.TraineeManager1Application - Started TraineeManager1Application in 3.299 seconds (JVM running for 3.815)
+22:31:17.482 [main] INFO  o.example.TraineeManager1Application - Server is running on Port: 8080 
+22:31:17.482 [main] ERROR o.example.TraineeManager1Application - Error in Null Value
+22:31:17.482 [main] WARN  o.example.TraineeManager1Application - This is Warning Message
+22:31:17.484 [main] INFO  o.example.TraineeManager1Application - Choose option for Trainee:
+22:31:17.485 [main] INFO  o.example.TraineeManager1Application - 
+1. Register 
+2. remove 
+3. Find by name 
+4. Find by cohort code
+5.Print All
+6.Exit
